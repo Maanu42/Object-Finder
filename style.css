@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+}
+#name{
+    width: 50%;
+}
+canvas{
+    background-color: white;
+    border-color: black;
+    box-shadow: 2px 2px 2px red;
+}
